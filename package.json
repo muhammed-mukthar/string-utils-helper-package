@@ -16,6 +16,12 @@
     "manipulation"
   ],
   "author": "Muhammed Mukthar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammed-mukthar/string-utils-helper-package"
+  },
+  "homepage": "https://github.com/muhammed-mukthar/string-utils-helper-package",
+
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.12",
