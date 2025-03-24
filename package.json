@@ -1,6 +1,6 @@
 {
   "name": "string-utils-helper-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of useful string manipulation utility functions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
